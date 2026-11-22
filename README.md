@@ -2,14 +2,14 @@
 
 物业服务方向的个人作品展示页。
 
-线上地址：https://timchingx.github.io
+线上地址：https://timxe.github.io
 
 ## 作品
 
 | 作品 | 说明 |
 | --- | --- |
-| [建发央玺花园 · 前期物业服务标准](https://timchingx.github.io/works/yangxi-garden/) | 网页演示，19 页；169 项服务条款（基础标准 56 项、增项服务 113 项），附可搜索的条款库 |
-| [工程维修台账与数据仪表盘](https://timchingx.github.io/works/repair-ledger/) | Excel 工单系统：入户和公区台账、师傅调度看板、总仪表盘、单元查询、入户维修评价表；页面截图和示例文件均为脱敏数据 |
+| [建发央玺花园 · 前期物业服务标准](https://timxe.github.io/works/yangxi-garden/) | 网页演示，19 页；169 项服务条款（基础标准 56 项、增项服务 113 项），附可搜索的条款库 |
+| [工程维修台账与数据仪表盘](https://timxe.github.io/works/repair-ledger/) | Excel 工单系统：入户和公区台账、师傅调度看板、总仪表盘、单元查询、入户维修评价表；页面截图和示例文件均为脱敏数据 |
 
 ## 目录
 
